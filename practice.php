@@ -6,6 +6,7 @@ $sum = $num1 + $num2;
 while ($sums = $sum) {
     echo "sum is: $sum";
     break;
+    
 }
 
 ?>
