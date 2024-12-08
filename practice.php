@@ -4,8 +4,7 @@ $num2 = 20;
 $sum = $num1 + $num2;
 
 while ($sum = $sums) {
-    echo " The sum is: $sum";
-    $sum++;
+    echo " The sum is: $sums";
     break;
 }
 
